@@ -1,0 +1,14 @@
+layout_spectrum: 0.06475694198161364
+typography_spectrum: 0.5764933822210878
+color:
+  brandStrength: 0.17415363434702158
+  lightness: 0.057132120011374354
+  saturation: 0.08209976041689515
+  rhythmicContrast: 0.13962071482092142
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: testpage

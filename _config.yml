@@ -13,7 +13,7 @@ color:
 layout_spectrum: 0.06475694198161364
 name: testpage
 navigation:
-  - name: 'Reduced Spoke Bicycles : Conceptual Bike'
+  - name: Content
     id: c7c41001-bd15-4531-8434-42674227628b
     type: content
 title: Yes Yes Yoah
